@@ -16,7 +16,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
   border-radius: 25px;
-  width: 40%;
+  width: 40vw;
   margin: auto;
   display: flex;
   flex-direction: column;
